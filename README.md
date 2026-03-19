@@ -28,4 +28,4 @@ Ref 1: Sample scenario# Test-Audit
 ##  Botium Toys Security Audit
 
 This PDF contains the full Controls and Compliance Checklist, including all risk assessments, observations, and recommendations for Botium Toys.  
-[View Full Report](assets/Botium-Audit.pdf)
+[View Full Report](assets_Botium_Toys.pdf)
